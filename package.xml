@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MergeLightningContact</fullName>
+    <types>
+        <members>BuildMergeContact</members>
+        <members>MergeContactLightningController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>MergeContactLightningVF</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>MergeContactEVt</members>
+        <members>MergeContactLightning</members>
+        <members>MergeContactLightningApp</members>
+        <members>MergeContactLightningEvt</members>
+        <members>MergeContactLightningForApp</members>
+        <members>MergeContactLightningParent</members>
+        <members>MergeContactLightningScreen2</members>
+        <members>MergeContactMaster</members>
+        <members>compTwoToParent</members>
+        <members>mergeContactMasterEvt</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Contact.Merge_Contacts_LX</members>
+        <name>WebLink</name>
+    </types>
+    <version>49.0</version>
+</Package>
